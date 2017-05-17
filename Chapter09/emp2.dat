@@ -1,0 +1,24 @@
+(dp0
+S'skill'
+p1
+(lp2
+S'Python'
+p3
+aS'Data Analytic'
+p4
+aS'Information Security'
+p5
+aS'SAP'
+p6
+asS'name'
+p7
+(lp8
+S'Mohit'
+p9
+aS'Ravender'
+p10
+aS'Himmat'
+p11
+aS'Robbin'
+p12
+as.

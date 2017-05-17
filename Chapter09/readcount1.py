@@ -1,0 +1,5 @@
+file_input = open("sample1.txt",'r') 
+print file_input.read(20) 
+print file_input.read(15)
+print file_input.read(10)
+file_input.close()

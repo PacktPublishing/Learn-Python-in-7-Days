@@ -1,0 +1,6 @@
+file_input = open("newmotivation.txt",'a') 
+file_input.write("\nBlood sweat and respect")
+file_input.write("\nThe first two you give")
+file_input.write("\nThe last you earn")
+file_input.write("\nGive it Earn it")
+file_input.close()

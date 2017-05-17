@@ -1,0 +1,2 @@
+Hello this example is for Counter. Here we will check the frequency of letters. 
+This is going to be the toughest test for the Counter.
