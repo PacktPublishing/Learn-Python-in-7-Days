@@ -1,5 +1,5 @@
-# Learn Python in 7 days
-This is the code repository for [Learn Python in 7 days](https://www.packtpub.com/application-development/learn-python-7-days?utm_source=github&utm_medium=repository&utm_campaign=9781787288386), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+# Learn Python in 7 Days
+This is the code repository for [Learn Python in 7 Days](https://www.packtpub.com/application-development/learn-python-7-days?utm_source=github&utm_medium=repository&utm_campaign=9781787288386), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Python was initially developed by Guido Von Rossum as a fun project and was named after his favorite show Monty Python's Flying Circus. It was developed in 1991, but it started becoming popular around 2008. A major contributor to this popularity was Google, which has developed a number of platforms using Python. Recently, Python has been popularized by cloud, DevOps, data science, data analytics, machine learning, and natural language processing. With more and more data harvesting and data processing, people want to get into new types of job roles, which require basic programming skills, and Python perfectly suits all the categories of job work. Learn Python in 7 days has been designed to give such people an easy way to learn and master the basics of Python in 7 days. The book covers the basic and necessary concepts that are required to understand the working of the Python language. The book is for all types of readers and learners. It also acts as a refresher for experienced people. We believe that we have covered as much as possible for making it a book to be finished in seven days; however, we believe that merely reading the book is not sufficient to master programming skills. It will take more than that to achieve mastery. We hope you enjoy reading the book and use it as a good learning book.
 ## Instructions and Navigation
@@ -24,5 +24,3 @@ For this book, you need to install Python 2.7x version on your machine, along wi
 
 * [Kivy: Interactive Applications in Python](https://www.packtpub.com/application-development/kivy-interactive-applications-python?utm_source=github&utm_medium=repository&utm_campaign=9781783281596)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
