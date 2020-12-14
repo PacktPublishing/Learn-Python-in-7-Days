@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/learn-python-in-7-days/9781787288386)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Learn Python in 7 Days
 This is the code repository for [Learn Python in 7 Days](https://www.packtpub.com/application-development/learn-python-7-days?utm_source=github&utm_medium=repository&utm_campaign=9781787288386), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
